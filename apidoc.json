@@ -5,5 +5,14 @@
   "title": "Doc",
   "url" : "http://foo.bar.com",
   "order": [
+      "Introduction",
+      "CreateProduct",
+      "CreateProductRegionChunk",
+      "GetProduct",
+      "GetProductNodeConfigs",
+      "GetProductList",
+      "PutProduct",
+      "DeleteProduct",
+      "Feedback"
       ]
 }
