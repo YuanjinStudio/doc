@@ -1,0 +1,9 @@
+{
+  "name": "Doc",
+  "version": "0.0.1",
+  "description": "",
+  "title": "Doc",
+  "url" : "http://foo.bar.com",
+  "order": [
+      ]
+}
